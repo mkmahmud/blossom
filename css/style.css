@@ -1,7 +1,10 @@
 /* Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Fredoka+One&display=swap');
 .logo{
     font-family: 'Anton', sans-serif;
-    font-weight: bold;
     font-size: 25px;
+}
+.carousel-title{
+    font-family: 'Fredoka One', cursive;
+    font-size: 50px;
 }
