@@ -8,3 +8,7 @@
     font-family: 'Fredoka One', cursive;
     font-size: 50px;
 }
+.spot-img img{
+    width: 180px !important;
+    height: 100px !important;
+}
